@@ -31,6 +31,10 @@ _Npm and NodeJS must be installed._
 
 [npm](https://www.npmjs.com/)
 
+## Note
+
+Modify the `.env.example` file to `.env` and add the address of the database of MongoDB in `MONGODB_URI`.
+
 
 # Routes and requests
 
