@@ -5,7 +5,7 @@ This project is a simple web server developed in Typescript using Nodejs and Mon
 # Installation
 
 ```
-git clone https://github.com/Nair-VillaGran/Api-Photo-Gallery
+git clone https://github.com/Nair-VillaGran/Api-Photo-Gallery.git
 cd api-photo-gallery
 npm install
 npm start
